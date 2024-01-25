@@ -39,3 +39,17 @@ Changes to be committed:
 Author: Lauren Lynch <lauren.lynch314@gmail.com>
 Date:   Wed Jan 24 19:12:35 2024 -0500
 
+9. On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+llynch@odd17:~/lab2/git-lab$ ^C
+llynch@odd17:~/lab2/git-lab$ 
+10. I wasn't able to view my updates still
+11. I still wasn't able to view my updates 
+12. I was able to view everything new that I did on the browser in my code 
